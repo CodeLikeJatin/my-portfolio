@@ -103,7 +103,7 @@ export default function Portfolio() {
                 </div>
 
                 <div className="text-zinc-500">
-                  React • Next.js • Tailwind • JavaScript
+                  Html • Css 
                 </div>
 
                 <div>
@@ -169,12 +169,6 @@ export default function Portfolio() {
           {[
             'HTML',
             'CSS',
-            'JavaScript',
-            'React',
-            'Next.js',
-            'Tailwind',
-            'Git',
-            'Node.js',
           ].map((skill) => (
             <motion.div
               whileHover={{ y: -6 }}
